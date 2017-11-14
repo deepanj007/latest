@@ -1,0 +1,23 @@
+{
+  "name": "Goodspool",
+  "version": "1.0.0",
+  "description": "Uber for lorry",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "google-distance": "^1.0.1",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "author": "Deepanjan Ghosh",
+  "license": "ISC"
+}
